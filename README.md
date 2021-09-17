@@ -2,7 +2,7 @@
 * Удаление временных файлов
 * Удаление логов
 * Блокировка вредоносных сайтов, через файл hosts
-![alt tag](https://github.com/pro100git/cleaner/blob/master/Screenshot.jpg "cleaner")
+![alt tag](https://github.com/iterweb/cleaner/blob/master/Screenshot.jpg "cleaner")
 
 ### Зависимости:
 Python 3.7+
